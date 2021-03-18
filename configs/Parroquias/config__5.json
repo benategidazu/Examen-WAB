@@ -1,0 +1,4 @@
+{
+  "urlmunicipios": "http://ideg.xunta.es/servizos/rest/services/LimitesAdministrativos/LimitesAdministrativos/MapServer/12",
+  "urlparroquias": "http://ideg.xunta.es/servizos/rest/services/LimitesAdministrativos/LimitesAdministrativos/MapServer/18"
+}
